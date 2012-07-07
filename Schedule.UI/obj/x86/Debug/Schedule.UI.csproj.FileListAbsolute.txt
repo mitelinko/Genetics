@@ -1,0 +1,58 @@
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\bin\Debug\Schedule.UI.exe
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\bin\Debug\Schedule.UI.pdb
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\bin\Debug\Schedule.Algorithm.dll
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\bin\Debug\Schedule.Algorithm.pdb
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\MainWindow.baml
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\App.g.cs
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI_MarkupCompile.cache
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.g.resources
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.Properties.Resources.resources
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.exe
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.pdb
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.exe
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.pdb
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\bin\Debug\Schedule.UI.exe
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\bin\Debug\Schedule.UI.pdb
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\bin\Debug\Schedule.Algorithm.dll
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\bin\Debug\Schedule.Algorithm.pdb
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\MainWindow.baml
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\App.g.cs
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI_MarkupCompile.cache
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.g.resources
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.Properties.Resources.resources
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.exe
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.pdb
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\bin\Debug\Schedule.UI.exe
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\bin\Debug\Schedule.UI.pdb
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\bin\Debug\Schedule.Algorithm.dll
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\bin\Debug\Schedule.Algorithm.pdb
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.csprojResolveAssemblyReference.cache
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\MainWindow.baml
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\App.g.cs
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI_MarkupCompile.cache
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.g.resources
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.Properties.Resources.resources
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.csproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.exe
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.pdb
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\bin\Debug\Schedule.UI.exe
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\bin\Debug\Schedule.UI.pdb
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\bin\Debug\Schedule.Algorithm.dll
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\bin\Debug\Schedule.Algorithm.pdb
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\obj\x86\Debug\MainWindow.baml
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\obj\x86\Debug\App.g.cs
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI_MarkupCompile.cache
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.g.resources
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.Properties.Resources.resources
+C:\Users\Dimitar\Desktop\Schedule.UI\Schedule.UI\Schedule.UI\obj\x86\Debug\Schedule.UI.csproj.GenerateResource.Cache

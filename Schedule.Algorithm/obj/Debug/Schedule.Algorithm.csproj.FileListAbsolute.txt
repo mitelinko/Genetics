@@ -1,0 +1,15 @@
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.Algorithm\bin\Debug\Schedule.Algorithm.dll
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.Algorithm\bin\Debug\Schedule.Algorithm.pdb
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.Algorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.Algorithm\obj\Debug\Schedule.Algorithm.dll
+C:\Users\temp\documents\visual studio 2010\Projects\Schedule.UI\Schedule.Algorithm\obj\Debug\Schedule.Algorithm.pdb
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.Algorithm\bin\Debug\Schedule.Algorithm.dll
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.Algorithm\bin\Debug\Schedule.Algorithm.pdb
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.Algorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.Algorithm\obj\Debug\Schedule.Algorithm.dll
+C:\Users\maxim.harizanov\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.Algorithm\obj\Debug\Schedule.Algorithm.pdb
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.Algorithm\bin\Debug\Schedule.Algorithm.dll
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.Algorithm\bin\Debug\Schedule.Algorithm.pdb
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.Algorithm\obj\Debug\Schedule.Algorithm.dll
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.Algorithm\obj\Debug\Schedule.Algorithm.pdb
+C:\Users\maximhar\Documents\Visual Studio 2010\Projects\Schedule.UI\Schedule.Algorithm\obj\Debug\Schedule.Algorithm.csprojResolveAssemblyReference.cache
